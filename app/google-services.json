@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840826963719",
+    "firebase_url": "https://signinusingfirebase.firebaseio.com",
+    "project_id": "signinusingfirebase",
+    "storage_bucket": "signinusingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840826963719:android:bb255fbbc7b40af0",
+        "android_client_info": {
+          "package_name": "com.example.sambal.googlesigninusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840826963719-skr68i8s2d9pbkdj83ju076k5tdmefoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sambal.googlesigninusingfirebase",
+            "certificate_hash": "77dfb36d05754f332fc359c2c88d364723510d11"
+          }
+        },
+        {
+          "client_id": "840826963719-g3ev7o5tr1okklmodhg8otj9f2ms534t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqhJtoZZ0Ly3FDJdaZxGA7ATfA_v-Eyvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840826963719-g3ev7o5tr1okklmodhg8otj9f2ms534t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
